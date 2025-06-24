@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd "$(dirname $(command -v dylab))/.."
+git pull
